@@ -25,7 +25,7 @@ SECRET_KEY = 'qhc-_20zt3f_vn9ddxnuofe#i453ev6ozuc4ehjp@2u2o#z7pw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quintus.pythonanywhere.com']
 
 
 # Application definition
